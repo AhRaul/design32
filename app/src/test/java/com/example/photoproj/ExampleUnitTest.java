@@ -1,4 +1,4 @@
-package com.example.hw132;
+package com.example.photoproj;
 
 import org.junit.Test;
 

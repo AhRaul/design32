@@ -1,4 +1,4 @@
-package com.example.hw132;
+package com.example.photoproj;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.hw132", appContext.getPackageName());
+        assertEquals("com.example.photoproj", appContext.getPackageName());
     }
 }
